@@ -20,7 +20,7 @@ public class LoginScreen implements Initializable {
 
 
 @Override
-public void initialize(URL arg0, ResourceBundle arg1) {
+public void initialize(URL location, ResourceBundle resources) {
     System.out.println("TEST");
 
 }
