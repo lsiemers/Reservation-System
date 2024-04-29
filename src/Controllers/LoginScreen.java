@@ -1,3 +1,4 @@
+package Controllers;
 import java.io.IOError;
 import java.io.IOException;
 import java.net.URL;
@@ -45,7 +46,5 @@ void loginBtnAction(ActionEvent event) throws IOException {
 public void initialize(URL location, ResourceBundle resources) {
 
 }
-
-
 
 }
